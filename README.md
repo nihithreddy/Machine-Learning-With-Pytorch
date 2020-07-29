@@ -3,3 +3,4 @@ This repo contains all the projects which i did in the Udacity's Intro to Machin
 
 * **Project-1** [Finding Donors For CharityML](https://github.com/nihithreddy/Machine-Learning-With-Pytorch/tree/master/Finding-Donors-For-CharityML)
 * **Project-2** [Image Classification](https://github.com/nihithreddy/Machine-Learning-With-Pytorch/tree/master/Image-Classification)
+* **Project-3** [Finding Customer Segments](https://github.com/nihithreddy/Machine-Learning-With-Pytorch/tree/master/Customer-Segments)
